@@ -1,0 +1,34 @@
+{
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[ 34, 51, 68 ]
+		],
+		[
+			"South",
+			"spooky",
+			[ 34, 51, 68 ]
+		],
+		[
+			"Monster",
+			"monster",
+			[ 34, 51, 68 ]
+		]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "나박사와 돼지쿤",
+	"weekBefore": "week1",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

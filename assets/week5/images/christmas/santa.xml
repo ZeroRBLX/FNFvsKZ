@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="santa.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="santa idle in fear 10000" x="0" y="0" width="552" height="536" frameX="0" frameY="-26" frameWidth="552" frameHeight="588"/>
+	<SubTexture name="santa idle in fear 10001" x="552" y="0" width="552" height="564" frameX="0" frameY="-12" frameWidth="552" frameHeight="588"/>
+	<SubTexture name="santa idle in fear 10002" x="1104" y="0" width="552" height="542" frameX="0" frameY="-23" frameWidth="552" frameHeight="588"/>
+	<SubTexture name="santa idle in fear 10003" x="0" y="564" width="552" height="530" frameX="0" frameY="-29" frameWidth="552" frameHeight="588"/>
+	<SubTexture name="santa idle in fear 10004" x="552" y="564" width="552" height="554" frameX="0" frameY="-17" frameWidth="552" frameHeight="588"/>
+	<SubTexture name="santa idle in fear 10005" x="1104" y="564" width="552" height="588"/>
+	<SubTexture name="santa idle in fear 10006" x="0" y="1152" width="552" height="556" frameX="0" frameY="-16" frameWidth="552" frameHeight="588"/>
+	<SubTexture name="santa idle in fear 10007" x="0" y="1152" width="552" height="556" frameX="0" frameY="-16" frameWidth="552" frameHeight="588"/>
+</TextureAtlas>
