@@ -1,3 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<TextureAtlas imagePath="mushroom.png"><SubTexture name="mushroom idle0000" x="0" y="0" width="383" height="327" frameX="-10" frameY="-19" frameWidth="398" frameHeight="350" />
-</TextureAtlas>
