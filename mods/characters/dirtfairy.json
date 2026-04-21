@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-65
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "dirtfairy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-48
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "123 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-66
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "123 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-51
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "123 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "123 down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dirtfairy",
+	"position": [
+		-90,
+		-40
+	],
+	"healthicon": "123",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		130,
+		380
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}
